@@ -4,7 +4,8 @@ if you want to automate your disks initiation process this app's for you. Need m
 ---------------------------------------
 READ ME!
 It's a template python version if you want use that u must download all of libraries.
-If you don't want just download.EXE VERSION from here: 
+If you don't want to
+just download.EXE VERSION from here: https://drive.google.com/file/d/12h_2HeBeewQXXThtSLJSKxpZGdjXs9LZ/view
 a Youtube tutorial here:
 ---------------------------------------
 very simple and rapid using.
