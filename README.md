@@ -6,7 +6,7 @@ READ ME!
 It's a template python version if you want use that u must download all of libraries.
 If you don't want to
 just download.EXE VERSION from here: https://drive.google.com/file/d/12h_2HeBeewQXXThtSLJSKxpZGdjXs9LZ/view
-a Youtube tutorial here:
+Youtube tutorial here: https://www.youtube.com/watch?v=_rrNSb5SD-4&feature=youtu.be
 ---------------------------------------
 very simple and rapid using.
 
