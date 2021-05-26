@@ -1,0 +1,22 @@
+select volume 1
+assign mount = C:\our_directories\hard_drive-1
+select volume 2
+assign mount = C:\our_directories\hard_drive-2
+select volume 3
+assign mount = C:\our_directories\hard_drive-3
+select volume 4
+assign mount = C:\our_directories\hard_drive-4
+select volume 5
+assign mount = C:\our_directories\hard_drive-5
+select volume 6
+assign mount = C:\our_directories\hard_drive-6
+select volume 7
+assign mount = C:\our_directories\hard_drive-7
+select volume 8
+assign mount = C:\our_directories\hard_drive-8
+select volume 9
+assign mount = C:\our_directories\hard_drive-9
+select volume 10
+assign mount = C:\our_directories\hard_drive-10
+
+

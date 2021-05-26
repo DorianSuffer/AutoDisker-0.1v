@@ -1,0 +1,20 @@
+select volume 41
+assign mount = C:\our_directories\hard_drive-41
+select volume 42
+assign mount = C:\our_directories\hard_drive-42
+select volume 43
+assign mount = C:\our_directories\hard_drive-43
+select volume 44
+assign mount = C:\our_directories\hard_drive-44
+select volume 45
+assign mount = C:\our_directories\hard_drive-45
+select volume 46
+assign mount = C:\our_directories\hard_drive-46
+select volume 47
+assign mount = C:\our_directories\hard_drive-47
+select volume 48
+assign mount = C:\our_directories\hard_drive-48
+select volume 49
+assign mount = C:\our_directories\hard_drive-49
+select volume 50
+assign mount = C:\our_directories\hard_drive-50	
